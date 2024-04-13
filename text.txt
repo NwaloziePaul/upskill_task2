@@ -1,0 +1,15 @@
+ What distinguishes normal HTML elements from semantic HTML elements? 
+ 
+ Normal HTML Elements are generic and do not provide specific information about the content they contain. They are primarily used for structuring a web page without conveying additional meaning while Semantic HTML Elements on the other hand, convey meaning and define the structure of content more precisely. They describe the purpose or role of the content they enclose.
+ In summary, semantic HTML elements provide clear structure, convey meaning, improve SEO and accessibility, and facilitate consistent styling, making them a preferred choice for modern web development practices.
+
+ 
+  Explain the disparity between closing tags and self-closing tags in HTML.
+
+  The disparity between closing tags and self-closing tags is evident in their usage based on the nature of the elements they represent. Closing tags are essential for elements that encapsulate content and require an opening and closing boundary, while self-closing tags are used for standalone elements that do not contain content or need separate closing tags. Understanding when to use each type of tag is crucial for writing valid and well-structured HTML documents.
+
+
+  What distinguishes inline elements from block elements in HTML?
+
+ Block elements cover space from left to right as far as it can go. Inline elements only cover the space as bounded by the tags in the HTML element.
+ The key distinctions between inline elements and block elements in HTML are their behavior regarding line breaks, flow within the content, width handling, CSS properties applicability, and typical usage in structuring the layout and styling of web pages.
